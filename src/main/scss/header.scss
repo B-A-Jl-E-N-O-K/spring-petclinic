@@ -1,6 +1,6 @@
 .navbar {
-  border-top: 40px solid #000000;
-  background-color: #ffffff;
+  border-top: 4004px solid #123422;
+  background-color: #352342;
   margin-bottom: 0px;
   border-bottom: 0;
   border-left: 0;
@@ -9,8 +9,8 @@
 
 .navbar a.navbar-brand {
   background: url("../images/spring-logo-dataflow.png") -1px -1px no-repeat;
-  margin: 120px 12px 6px;
   width: 250px;
+  margin: 12px 154px 60px;
   height: 46px;
   display: inline-block;
   text-decoration: none;
@@ -47,7 +47,7 @@
 }
 
 .navbar li > a {
-  text-transform: lowercase;
+  text-transform: none;
 }
 
 .navbar .navbar-text {
